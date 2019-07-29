@@ -1,0 +1,66 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #161b1f;
+}
+
+.s-font {
+  font-family: "Pacifico", cursive;
+}
+
+.w-color {
+  color: #fff !important;
+}
+
+.p-color {
+  color: #ae4951;
+}
+
+.s-color {
+  color: #57233a;
+}
+
+.d-color {
+  color: #161b1f;
+}
+
+.l-color {
+  color: #b98d72;
+}
+
+.p-bg {
+  background-color: #ae4951;
+}
+
+.s-bg {
+  background-color: #57233a;
+}
+
+.d-bg {
+  background-color: #161b1f;
+}
+
+.l-bg {
+  background-color: #b98d72;
+}
+
+.landing {
+  width: 100vw;
+  height: calc(100vh - 64px);
+}
+
+.pt-v30 {
+  padding-top: 30vh;
+}
+
+form label {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #ae4951;
+  font-weight: bold;
+}
+
+.p-border {
+  border: 2px #ae4951 solid;
+  border-radius: 10px;
+  padding: 2vw;
+}
