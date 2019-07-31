@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://neohotsauce:hanyn987654@dev-hub-hlmqs.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": " ",
   "jwtSecret": "mysecrettoken",
-  "githubClientId": "f299f2db2fa9ea17b989",
-  "githubSecret": "f6ff6375bcd4663af643a9cbb2e4f7bd2991956f"
+  "githubClientId": "",
+  "githubSecret": " "
 }
